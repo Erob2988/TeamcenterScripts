@@ -1,4 +1,7 @@
-
+"""
+Script to read input file and create a lst file I can user to update all 
+users license level.
+"""
 
 inputFile = open("C:/Users/pbxg9v/Documents/Make_User_011320",'r')
 outputFile = open("C:/Users/pbxg9v/Documents/User_Update_011320", 'w')
